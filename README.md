@@ -50,7 +50,7 @@ https://neeraj450107.github.io/Weather_New_App.github.io/
 ```
 ## Demo
 
-
+![Image](https://github.com/user-attachments/assets/8567c7a1-ee8f-441c-88d6-7f2e09630719)
 
 ## 🛠️ Built With
 
@@ -63,7 +63,9 @@ https://neeraj450107.github.io/Weather_New_App.github.io/
 
 ## Screenshots
 
+![Image](https://github.com/user-attachments/assets/dd71aced-7c96-404d-a704-2d151dc07e30)
 
+![Image](https://github.com/user-attachments/assets/b5461d8f-b841-4da4-8fda-0dbdc332206d)
 
 
 ## Getting Started
